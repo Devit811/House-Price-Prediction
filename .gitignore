@@ -22,8 +22,7 @@ outputs/*.json
 outputs/*.pkl
 
 # Data files
-data/train.csv
-data/test.csv
+
 
 # IDE
 .vscode/
